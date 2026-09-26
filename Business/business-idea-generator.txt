@@ -1,0 +1,14 @@
+BUSINESS IDEA GENERATOR
+
+Generate practical business ideas based on:
+
+1. Target customer
+2. Customer problem
+3. Market demand
+4. Competition
+5. Startup cost
+6. Revenue model
+7. Marketing approach
+8. Scalability
+
+Reject ideas that are unrealistic, legally problematic, or dependent on unsupported assumptions.
