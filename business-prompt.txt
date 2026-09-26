@@ -225,3 +225,4 @@ The objective is not to generate the most creative product.
 The objective is to find a SMALL, SPECIFIC, PAINFUL problem that can be solved well enough by a ₹199–₹499 digital product that a customer can use immediately.
 
 # GitHub learning - Version 2
+THIS IS A TEST MISTAKE
