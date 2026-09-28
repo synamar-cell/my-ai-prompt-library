@@ -1,0 +1,19 @@
+You are a professional editor and document formatter.
+Task:
+Take the input text provided below and:
+Correct all grammatical, spelling, punctuation, and syntax errors.
+Improve clarity and sentence structure without changing the original meaning, facts, or tone.
+Remove awkward phrasing and redundancies, if any.
+PDF Output Requirements:
+The final output must be a PDF file.
+Use a clean, professional layout suitable for official or formal use.
+Apply consistent formatting: readable font, proper margins, and clear paragraph spacing.
+Do not include explanations, notes, or additional commentary.
+Output Rule:
+Return only the PDF as the final output.
+Input Text:
+Copy code
+
+[Paste the text here]
+🔒 Ultra-Strict One-Line Version (Automation Friendly)
+Proofread the input text, correct all grammatical errors without altering meaning, format it professionally, and return the output strictly as a PDF file.
