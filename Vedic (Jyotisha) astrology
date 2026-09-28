@@ -1,0 +1,543 @@
+TARGET AI: Claude
+MODE: DETAIL
+TASK TYPE: Vedic Astrology Reference-System / PDF Generation
+
+ROLE
+
+Act as an expert in classical Vedic (Jyotisha) astrology, Sanskrit terminology, astronomical symbolism, and professional reference-table design.
+
+Your task is NOT to generate or interpret anyone's personal birth chart.
+
+Instead, create a comprehensive, highly organized Vedic Astrology REFERENCE TABLE / HANDBOOK in PDF format that can be used to understand and construct charts manually.
+
+IMPORTANT:
+- Do NOT ask for any person's date of birth, time of birth, or place of birth.
+- Do NOT calculate or interpret a natal/birth chart.
+- Do NOT provide personal predictions.
+- This is purely a universal reference guide.
+- If multiple copies/charts are requested, ask only how many REFERENCE CHARTS/TABLE SETS are required. Do not ask for birth details.
+
+SOURCE AND ACCURACY STANDARD
+
+Use the classical Vedic astrology framework wherever possible, prioritizing established Jyotisha principles from recognized classical traditions.
+
+Clearly distinguish:
+1. Classical/standard rules
+2. Common traditional interpretations
+3. Rules that vary between schools or texts
+
+Do not invent astrological rules. Where classifications differ between traditions, show the variation in a clearly marked "Tradition/Variation" column or note.
+
+Use Sanskrit terms with commonly accepted English equivalents.
+
+MAIN OBJECTIVE
+
+Create an easy-to-understand MASTER VEDIC ASTROLOGY REFERENCE TABLE covering:
+
+A. RASHIS / ZODIAC SIGNS
+B. RASHI LORDS
+C. PLANETARY NATURE — BENEFIC / MALEFIC / NEUTRAL
+D. PLANETARY GUNA
+E. VARNA
+F. GENDER
+G. AUTHORITY / FUNCTION
+H. ASSOCIATED DEITY
+I. BHAVA CLASSIFICATION
+J. PLANETARY EXALTATION
+K. PLANETARY DEBILITATION
+L. OWN SIGNS
+M. PLANETARY FRIENDSHIP / ENMITY / NEUTRALITY
+N. DRISHTI
+O. BHAVA KARAKAS
+P. DIGBALA
+Q. IMPORTANT CROSS-REFERENCE TABLES
+R. QUICK REFERENCE / CHEAT SHEETS
+
+--------------------------------------------------
+1. RASHI REFERENCE TABLE
+--------------------------------------------------
+
+Create a complete table for all 12 Rashis:
+
+1. Mesha
+2. Vrishabha
+3. Mithuna
+4. Karka
+5. Simha
+6. Kanya
+7. Tula
+8. Vrischika
+9. Dhanu
+10. Makara
+11. Kumbha
+12. Meena
+
+Include columns such as:
+
+- No.
+- Rashi
+- Sanskrit Name
+- English Name
+- Symbol
+- Element / Tattva
+- Modality / Nature
+- Rashi Lord
+- Gender
+- Varna
+- Guna
+- Direction
+- Day/Night classification if traditionally applicable
+- Movable / Fixed / Dual
+- Human / Quadruped / Other classification where traditionally applicable
+- Associated Deity where a reliable traditional correspondence exists
+- Key characteristics
+- Notes / Tradition variations
+
+Make the table visually clean and readable.
+
+--------------------------------------------------
+2. GRAHA MASTER REFERENCE TABLE
+--------------------------------------------------
+
+Create a complete table for the classical Navagraha:
+
+- Surya
+- Chandra
+- Mangala
+- Budha
+- Guru
+- Shukra
+- Shani
+- Rahu
+- Ketu
+
+Include:
+
+- Graha
+- Sanskrit name
+- English name
+- Symbol
+- Natural benefic / natural malefic / conditional or mixed nature
+- Guna
+- Varna
+- Gender
+- Element where traditionally applicable
+- Authority / domain
+- Karakatwa / significations
+- Associated deity
+- Day
+- Direction
+- Colour
+- Metal
+- Gemstone where traditionally applicable
+- Food/substance association where traditional and reliable
+- Age classification if traditionally applicable
+- Nature / temperament
+- Important notes
+
+IMPORTANT:
+Do not oversimplify "benefic" and "malefic."
+
+Explain the distinction between:
+- Natural benefic
+- Natural malefic
+- Functional benefic
+- Functional malefic
+- Temporary/conditional influences where applicable
+
+Clearly state that functional benefic/malefic status depends on the Ascendant and house lordship, so it cannot be universally assigned without a chart.
+
+--------------------------------------------------
+3. GRAHA GUNA / VARNA / GENDER / AUTHORITY / DEITY
+--------------------------------------------------
+
+Create a dedicated quick-reference table showing each Graha and:
+
+- Guna: Sattva / Rajas / Tamas
+- Varna
+- Gender
+- Authority / governing principle
+- Deity
+- Psychological nature
+- Physical significations
+- Social/professional significations
+
+Where traditions disagree, identify the variation rather than pretending there is one universal classification.
+
+--------------------------------------------------
+4. EXALTATION / DEBILITATION / OWN SIGN
+--------------------------------------------------
+
+Create a master table for every Graha showing:
+
+- Graha
+- Exaltation sign
+- Exact exaltation degree
+- Debilitation sign
+- Exact debilitation degree
+- Own sign(s)
+- Moolatrikona sign
+- Moolatrikona degree range, where applicable
+- Notes
+
+Include the classical Navagraha.
+
+Do not confuse:
+- Own sign
+- Moolatrikona
+- Exaltation
+
+Keep these concepts clearly separated.
+
+--------------------------------------------------
+5. PLANETARY FRIENDSHIP
+--------------------------------------------------
+
+Create a complete reference table for planetary relationships.
+
+Include:
+
+- Graha
+- Natural friends
+- Natural enemies
+- Natural neutrals
+
+Then explain the distinction between:
+
+- Natural friendship (Naisargika Maitri)
+- Temporary friendship (Tatkalika Maitri)
+- Compound/combined friendship (Panchadha Maitri)
+
+If the traditional calculation is relevant, explain it clearly.
+
+Include Rahu and Ketu separately and identify where traditions differ regarding their friendships.
+
+--------------------------------------------------
+6. DRISHTI — PLANETARY ASPECTS
+--------------------------------------------------
+
+Create an easy-to-use Drishti reference table.
+
+Include:
+
+- Graha
+- 7th aspect
+- Special aspects
+- Aspected houses from the planet's position
+- Traditional rule
+
+Clearly explain:
+
+- General 7th aspect
+- Mars special aspects
+- Jupiter special aspects
+- Saturn special aspects
+- Rahu/Ketu aspect conventions where traditions differ
+
+Do not mix Parashari Drishti with Jaimini Rashi Drishti.
+
+Create a separate note explaining that these are different systems.
+
+--------------------------------------------------
+7. BHAVA CLASSIFICATION
+--------------------------------------------------
+
+Create a complete Bhava reference table for Houses 1–12.
+
+For each Bhava include:
+
+- House number
+- Sanskrit name
+- English/common name
+- Primary significations
+- Secondary significations
+- Natural classification
+- Kendra / Panaphara / Apoklima
+- Trikona
+- Dusthana
+- Upachaya
+- Maraka
+- Important Karaka
+- Body parts traditionally associated
+- Life area represented
+- Key keywords
+
+Clearly identify overlapping classifications.
+
+For example, do not treat Kendra, Trikona, Dusthana, Upachaya, and Maraka as mutually exclusive categories.
+
+--------------------------------------------------
+8. BHAVA GROUP CLASSIFICATION
+--------------------------------------------------
+
+Create quick-reference tables for:
+
+KENDRA:
+1, 4, 7, 10
+
+TRIKONA:
+1, 5, 9
+
+PANAPHARA:
+2, 5, 8, 11
+
+APOKLIMA:
+3, 6, 9, 12
+
+DUSTHANA:
+6, 8, 12
+
+UPACHAYA:
+3, 6, 10, 11
+
+MARAKA:
+2, 7
+
+Also include:
+
+- Dharma houses
+- Artha houses
+- Kama houses
+- Moksha houses
+
+Explain the logic behind each classification.
+
+--------------------------------------------------
+9. BHAVA KARAKA REFERENCE
+--------------------------------------------------
+
+Create a table mapping important Bhavas to their natural significators/Karakas.
+
+At minimum cover:
+
+1st — self/body
+2nd — wealth/family/speech
+3rd — courage/siblings/communication
+4th — mother/home/property
+5th — children/intelligence/education
+6th — disease/debt/enemies/service
+7th — spouse/partnership
+8th — longevity/transformation/secrets
+9th — father/dharma/guru/fortune
+10th — career/action/status
+11th — gains/income/networks
+12th — expenditure/losses/liberation
+
+Include the relevant natural Graha Karaka(s).
+
+Where multiple Karakas are traditionally used, list them instead of forcing a single answer.
+
+--------------------------------------------------
+10. DIGBALA
+--------------------------------------------------
+
+Create a dedicated Digbala table.
+
+For each relevant Graha show:
+
+- Graha
+- Direction of maximum directional strength
+- Bhava/house
+- Opposite direction/house
+- Principle behind Digbala
+- Important notes
+
+Clearly explain:
+
+- Sun
+- Mars
+- Moon
+- Venus
+- Jupiter
+- Mercury
+- Saturn
+
+Also clarify the traditional treatment of Rahu/Ketu if applicable, marking school differences.
+
+--------------------------------------------------
+11. GRAHA KARAKATWA
+--------------------------------------------------
+
+Create a concise but comprehensive table of planetary significations.
+
+For each Graha include:
+
+- Primary Karakatwa
+- Body
+- Mind/psychology
+- Relationships
+- Profession
+- Wealth
+- Spiritual significance
+- Natural objects/significations
+
+--------------------------------------------------
+12. RASHI + GRAHA CROSS-REFERENCE
+--------------------------------------------------
+
+Create a quick-reference matrix showing:
+
+Rashi → Lord → Element → Modality → Gender → Varna → Guna → key characteristics.
+
+Then create:
+
+Graha → Own Sign → Moolatrikona → Exaltation → Debilitation → Natural Friendship → Natural Enmity → Neutrality.
+
+--------------------------------------------------
+13. VISUAL DESIGN
+
+Design the PDF as a professional Jyotisha reference handbook.
+
+Requirements:
+
+- A4 page size
+- Portrait for normal tables
+- Landscape pages where tables require more width
+- Clear section numbering
+- Strong hierarchy
+- Readable Sanskrit transliteration
+- English explanations
+- Consistent terminology
+- Tables with sufficient spacing
+- Avoid excessively tiny text
+- Use subtle traditional Indian/Jyotisha-inspired visual styling
+- Keep it professional rather than decorative
+- Use headers and footers
+- Add page numbers
+- Add a Table of Contents
+- Add a short glossary
+- Add an "Important Traditional Variations" section
+
+Use tables extensively instead of long paragraphs.
+
+--------------------------------------------------
+14. PDF STRUCTURE
+--------------------------------------------------
+
+Structure the final PDF approximately as:
+
+TITLE PAGE
+
+"VEDIC ASTROLOGY MASTER REFERENCE TABLE"
+
+Subtitle:
+"Rashis • Grahas • Bhavas • Drishti • Karakatwa • Digbala"
+
+Then:
+
+1. How to Use This Reference
+2. Rashi Master Table
+3. Graha Master Table
+4. Graha Guna / Varna / Gender / Authority / Deity
+5. Exaltation / Debilitation / Own Sign / Moolatrikona
+6. Planetary Friendship
+7. Drishti
+8. Bhava Classification
+9. Bhava Group Reference
+10. Bhava Karakas
+11. Digbala
+12. Graha Karakatwa
+13. Cross-Reference Cheat Sheets
+14. Traditional Variations & Cautions
+15. Glossary
+16. Quick One-Page Reference
+
+--------------------------------------------------
+15. IMPORTANT ACCURACY RULES
+--------------------------------------------------
+
+Before producing the PDF:
+
+1. Cross-check all planetary exaltation/debilitation signs and degrees.
+2. Cross-check own signs and Moolatrikona.
+3. Cross-check natural planetary friendships.
+4. Cross-check classical Drishti rules.
+5. Cross-check Digbala.
+6. Cross-check Bhava classifications.
+7. Cross-check Karakatwa.
+8. Flag disputed or school-dependent classifications.
+9. Never silently mix different Jyotisha traditions.
+10. Never present uncertain information as universally accepted.
+
+If you cannot verify a classification confidently, mark it:
+
+"Tradition-dependent — verify according to chosen Jyotisha school."
+
+--------------------------------------------------
+16. INTERACTION BEFORE PDF CREATION
+--------------------------------------------------
+
+You may ask ONLY high-value clarification questions needed to determine the reference-book scope.
+
+For example:
+
+1. How many copies/reference sets do you want?
+2. Do you want English only, or English + Sanskrit transliteration?
+3. Do you prefer a compact cheat-sheet or a detailed handbook?
+
+Do NOT ask for:
+
+- Date of birth
+- Time of birth
+- Place of birth
+- Ascendant
+- Personal chart details
+
+Because this is NOT a birth-chart-generation task.
+
+If I do not answer optional questions, proceed using these defaults:
+
+- 1 reference handbook
+- English + Sanskrit transliteration
+- Detailed but easy-to-read format
+- Classical Parashari framework as the primary reference
+- Clearly label variations from other traditions
+
+--------------------------------------------------
+17. FINAL QUALITY CONTROL
+--------------------------------------------------
+
+Before generating the PDF, perform an internal validation checklist:
+
+✓ No personal birth chart requested
+✓ No birth data requested
+✓ All 12 Rashis included
+✓ All Navagrahas included
+✓ Rashi lords included
+✓ Natural benefic/malefic distinction explained
+✓ Guna included
+✓ Varna included
+✓ Gender included
+✓ Authority included
+✓ Deity included
+✓ Exaltation included
+✓ Debilitation included
+✓ Own signs included
+✓ Moolatrikona included
+✓ Friendship included
+✓ Enmity included
+✓ Neutrality included
+✓ Drishti included
+✓ Bhava classification included
+✓ Bhava Karakas included
+✓ Digbala included
+✓ Cross-reference tables included
+✓ Traditional variations identified
+✓ Tables are readable
+✓ PDF is professionally formatted
+✓ No unsupported claims
+✓ No invented classifications
+
+QUALITY TARGET: 9.5/10 or higher.
+
+If any section fails the quality check, correct it before producing the final PDF.
+
+FINAL OUTPUT
+
+First ask only the necessary scope questions, if any.
+
+Then create the complete reference handbook as a PDF.
+
+Do NOT create or interpret a person's birth chart.
+
+The final product must function as an easy-to-understand "Vedic Astrology Lookup Manual" that a student or practitioner can keep beside them while studying or constructing a horoscope.
