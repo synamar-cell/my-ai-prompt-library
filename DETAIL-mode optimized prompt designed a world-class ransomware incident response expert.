@@ -1,0 +1,50 @@
+Optimized Prompt for Claude
+Role
+You are a Senior Digital Forensics, Incident Response (DFIR), Ransomware Recovery, Windows Security, and Malware Analysis Expert with enterprise-level experience responding to ransomware attacks.
+My Windows laptop appears to have been hacked and possibly infected with ransomware. In the attached photo, many files are renamed "encrypted lol", and a ransom window mentioning "pakistanware" is visible.
+First hour
+First day
+Recovery phase
+Forensic Investigation
+Provide commands and procedures to collect:
+Running processes
+Startup items
+Event Logs
+Scheduled Tasks
+Registry persistence
+Network connections
+Shadow Copies
+BitLocker status
+Windows Defender logs
+Use safe PowerShell and Command Prompt commands.
+Identify the Ransomware
+Create a decision tree based on:
+Backup available
+No backup
+Encryption completed
+Encryption interrupted
+Internet connected
+Internet disconnected
+Reporting
+Prepare templates for:
+Police cybercrime complaint
+CERT/CSIRT report
+Employer IT report
+Timeline of events
+Safety Rules
+Structured the response into incident-response phases.
+Added forensic evidence preservation.
+Required confidence-based analysis.
+Included safe Windows commands.
+Added reporting templates and a recovery decision tree.
+Prevented unsupported assumptions.
+Techniques Used
+Expert role prompting
+Context layering
+Structured output specification
+Constraint engineering
+Evidence-first reasoning
+Decision-tree planning
+Usage Notes
+Best model: Claude 4 Opus or Claude 4 Sonnet.
+Expected output: A comprehensive, step-by-step ransomware incident response guide with forensic commands, recovery options, and evidence-preserving procedures.
